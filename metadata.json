@@ -1,0 +1,7 @@
+{
+  "name": "Digital FTE Dashboard",
+  "description": "A professional management interface for autonomous AI employees, featuring human-in-the-loop approvals, CEO briefings, and local-first vault management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
